@@ -8,17 +8,19 @@ A simple Python script to batch print PDF files located in a specified folder. U
 Prerequisites
 Python 3.x
 
-PyPDF2 library (version 3.0.0 or newer). You can install it using pip:
+PyPDF2 library (version 3.0.0 or newer). 
 
-Copy code
+You can install it using pip:
+
 pip install PyPDF2
+
 How to Use
 Navigate to the folder containing the script in a terminal or command prompt.
 
 Run the script using the command:
 
-Copy code
 python3 your_script_name.py
+
 Replace your_script_name.py with the actual name of the script if you've named it differently.
 
 Follow the on-screen prompts:
